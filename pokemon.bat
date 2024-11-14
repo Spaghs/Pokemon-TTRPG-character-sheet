@@ -102,10 +102,10 @@ cls
 @echo [Exemplo]: nm.Pikachu retorna Nome: Pikachu
 @echo.
 @echo hp.N: altera o HP em que N e um numero a calcular.
-@echo [Exemplo]: hp.-1 retorna PP: 9/10
+@echo [Exemplo]: hp.-1 retorna HP: 9/10
 @echo.
 @echo pp.N: altera o PP em que N e um numero a calcular.
-@echo [Exemplo]: hp.-1 retorna HP: 9/10
+@echo [Exemplo]: pp.-1 retorna PP: 9/10
 @echo.
 @echo move.N: altera o move em que N e o nome do move.
 @echo [Exemplo 1]: move.Thunderbolt muda o move no slot da sua escolha
